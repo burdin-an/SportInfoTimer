@@ -1,0 +1,4 @@
+/SportInfoTimer/vendor/*
+/SportInfoTimer/logs/*
+/SportInfoTimer/DB/*
+/SportInfoTimer/config-local.ini
